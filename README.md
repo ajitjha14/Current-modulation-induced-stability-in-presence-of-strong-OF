@@ -2,6 +2,7 @@
 Novel approach to pull back to monomodal state using current modualation
 
 fig10.fig - Number of modes at Lext=0.1 m at C=1:8
+
 fig11.fig - fig17.fig  Number of modes at Lext=0.2 to 0.8 m at C=1:8 respectively
 
 expanded_fig11a.fig - Exploded view of fig11.fig (first row, first column)
